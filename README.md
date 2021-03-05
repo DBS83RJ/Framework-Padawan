@@ -15,7 +15,3 @@
   Os links de referencias das imagens estão no index.html, mas eu vou deixar aqui caso alguém queira.
   
   
-## Fonte do Ícone: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vhv.rs%2Fviewpic%2FhbwxTbx_transparent-bb8-png-bb-8-png-png-download%2F&psig=AOvVaw3CXJm-  zd4ni0Dj7mgz9k5v&ust=1593739514064000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDQoby0reoCFQAAAAAdAAAAABAf
-## Fonte do Ícone da Framework: https://www.linkedin.com/company/framework-system/?originalSubdomain=br
-## Fonte da Ahsoka Chibi: https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjmp-rtuK3qAhVqHrkGHS_ZATkQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fposter%2FAhsoka-the-padawan-chibi-by-enriquev242%2F28548565.LVTDI&psig=AOvVaw21KwYjOAy7OHDksPB3udmi&ust=1593740687699321
-  

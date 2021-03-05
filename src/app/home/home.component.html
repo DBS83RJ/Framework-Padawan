@@ -1,0 +1,33 @@
+<section class="text-center"> <!--Seção para conter o conteudo da pagina, deixando o texto da seção centralizado-->
+  <h1>Bem-vindo(a) Padawan! A Galáxia Inicial!</h1> <!-- Titulo -->
+  <table > <!--Table contendo as imagens e um pequeno texto-->
+    <tr> <!--Linha da tabela-->
+      <img class="img-fluid" width="250" height="250" src="../../assets/chibi.jpg" />
+      <!--Img com a classe responsiva do Boostrap e com altura e largura de 250px-->
+      <td class="home"> <!--Conteudo-->
+        Inicie conosco essa jornada através das estrelas, conheça este
+        rico universo cheio de várias <strong>galáxias</strong> para explorar.
+        Conheça sua história através de álbuns que mostram toda riqueza e plenitude
+        dessas grandiosas galáxias tão tão distantes.</td>
+    </tr> <!--Fim da linha da tabela-->
+
+<br> <!--Quebra de linha-->
+    <tr class="home"> <!--Linha da tabela-->
+      Você pode também acompanhar suas tarefas diárias e conhecer as postagens deixadas
+      por varias criaturas que irão te transportar para esse mundo incrível.
+      <td><!--Conteudo-->
+        <img class="img-fluid"  width="250" height="250"  src="../../assets/frame.png" />
+      </td>
+    </tr> <!--Fim da linha da tabela-->
+<br> <!--Quebra de linha-->
+  </table>
+
+
+
+<div> <!--Div para fazer uma divisão-->
+  <h2>Vamos iniciar uma nova jornada?</h2> <!--H2 para ficar ficar mais destacado-->
+  <h2>Clique neste botão abaixo para começarmos!</h2>
+  <button  [routerLink]="['/posts']">Para a proxima Galáxia</button> <!--Botão para a pagina de posts via routerLink do Angular-->
+  <!--RouterLink serve para mapear rotas no angular, simular a um href da tag <a>-->
+</div>
+</section>

@@ -1,12 +1,12 @@
 
 <div class="container text-center"> <!--Container para a navegação das paginas com texto centralizado-->
-  <h2>Bem-vindo a Galáxia das Postagens. Neste lugar você podera verificar as
+  <h2>Bem-vindo a Galáxia das Postagens. Neste lugar você poderá verificar as
     postagens deixadas por várias criaturas de outras galáxias que passaram por aqui!</h2>
   <div class="row"> <!--Linha do container-->
     <div class="col-4 search-bar "> <!--Coluna do container com espaço 4-->
       <form [formGroup]="searchForm"><!--Formulario para colocar a barra de pesquisa-->
         <div class="form-group"> <!--Com a atribuição acima para o grupo de formularios "searchForm" devemos colocar que esta div e do form-group para o angular identicar que ela pertence a um grupo-->
-            <input type="text" formControlName="seatchControl" class="form-control" placeholder="O que você esta procurando padawan?">
+            <input type="text" formControlName="seatchControl" class="form-control" placeholder="O que você está procurando, padawan?">
         </div>
       </form>
     </div>
@@ -14,7 +14,7 @@
       <button  [routerLink]="['/']">Galáxia Inicial</button> <!--Botão de rota de Navegação-->
     </div>
     <div class="col"> <!--Coluna do container-->
-      <button  [routerLink]="['/albuns']">Proxima Galáxia</button> <!--Botão de rota de Navegação-->
+      <button  [routerLink]="['/albuns']">Próxima Galáxia</button> <!--Botão de rota de Navegação-->
     </div>
   </div>
 </div>
